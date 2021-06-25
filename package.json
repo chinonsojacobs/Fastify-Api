@@ -12,6 +12,8 @@
     "faker": "^5.5.3",
     "fastify": "^3.18.0",
     "fastify-autoload": "^3.7.1",
-    "fastify-plugin": "^3.0.0"
+    "fastify-plugin": "^3.0.0",
+    "fastify-swagger": "^4.8.0",
+    "uuid": "^8.3.2"
   }
 }
